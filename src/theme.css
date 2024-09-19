@@ -43,4 +43,11 @@ body {
   button:hover {
     background-color: #00408f;
   }
+  button.logout {
+    background-color: #dc3545; /* Red for logout */
+    border-color: #dc3545;
+  }
   
+  button.logout:hover {
+    background-color: #c82333;
+  }
